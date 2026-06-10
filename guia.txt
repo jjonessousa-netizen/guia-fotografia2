@@ -43,3 +43,4 @@ Contudo, ISOs mais altos podem introduzir ruído/grão na imagem.
 Esta técnica é útil em eventos internos ou em cenas noturnas onde a iluminação é limitada.
 
 TESTE PARA O GITHUB
+OUTRO TESTE
